@@ -1,0 +1,306 @@
+#EXTM3U
+#EXTINF:-1, DMAX
+https://copo2.mitopo.me/live/dmax/index.m3u8?token=zllRRwgFg0tzJE44_Pr4aQ&expires=1539349074
+#EXTINF:-1, MOVISTAR ESTRENOS
+https://petopa153.caraponi.me/live/plusestrenos/index.m3u8?token=JcWZDtRLp_0CYMjI8dH1Cw&expires=1539349238
+#EXTINF:-1, MOVISTAR SERIEMANIA
+https://petu11.pedromo.me/live/seriesxtra/index.m3u8?token=5crMABFSZcIHaImdXz9nsg&expires=1539349505
+#EXTINF:-1, MOVISTAR SERIES
+https://petu11.pedromo.me/live/plusseries/index.m3u8?token=gXIjKFX6BjjO1xOtkRW9nQ&expires=1539349638
+#EXTINF:-1, MOVISTAR GOLF
+https://petu12.pedromo.me/live/golf/index.m3u8?token=5g6kTDWENLbNTt6jAoy3Lg&expires=1539349691
+#EXTINF:-1, MOVISTAR DEPORTES
+https://petu12.pedromo.me/live/golf/index.m3u8?token=5g6kTDWENLbNTt6jAoy3Lg&expires=1539349691
+#EXTINF:-1, MOVISTAR DEPORTES PLUS
+https://petopa155.caraponi.me/live/plusdeportes/index.m3u8?token=YfJO1X9FvE8DRMhn88mb2A&expires=1539349736
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES 1
+https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=AriCTr1KUHE8ciNdIovbiA&expires=1539349850
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
+https://petopa154.caraponi.me/live/beinmax2/index.m3u8?token=CfX58Ip-CbdC1MHQJrkqqA&expires=1539349945
+#EXTINF:-1, MOVISTAR PLUS PARTIDAZO
+https://ssl7.cdn4.us/ingest09/28391.m3u8?sf=MWZIVWpIWnRSSQ==&token=8u5HV-D0sJE8N6Y7rntVQQ&expires=1539264888&rnd=28391
+#EXTINF:-1, MOVISTAR COMEDIA
+https://copo6.mitopo.me/live/comedia/index.m3u8?token=dvqrmc-Owwa-IFUJvaI_HA&expires=1539350228
+#EXTINF:-1, MOVISTAR DRAMA
+https://copo3.mitopo.me/live/dcine/index.m3u8?token=Puk9FVtTFv6nGvFX19ufVA&expires=1539350342
+#EXTINF:-1, MOVISTAR ACCION
+https://copo2.mitopo.me/live/plusaccion/index.m3u8?token=VhICdH0g8EXCJL6t230W5Q&expires=1539350386
+#EXTINF:-1, MOVISTAR #0
+https://copo3.mitopo.me/live/plus1/index.m3u8?token=Hd4po5i-aS8y4UgOitqO4g&expires=1539350445
+#EXTINF:-1, RCN
+https://petopa154.caraponi.me/live/rcn/index.m3u8?token=Erlz1n-Zz-b4ZTRorQ2Nhw&expires=1539350515
+#EXTINF:-1, WIIN SPORTS
+https://ssl7.cdn4.us/ingest06/26835.m3u8?sf=YVJsU1JjVW1wNQ==&token=j_1HPg59MNa8tZPsTWrZ3Q&expires=1539265354&rnd=26835
+#EXTINF:-1, AZTECA 7
+https://petu13.pedromo.me/live/azteca7/index.m3u8?token=jCstcScHrRHetk_CkRvupg&expires=1539350628
+#EXTINF:-1, CINE MAX
+https://petu13.pedromo.me/live/azteca7/index.m3u8?token=jCstcScHrRHetk_CkRvupg&expires=1539350628
+#EXTINF:-1, TNT
+https://petu13.pedromo.me/live/tntlatino/index.m3u8?token=xYy_DSfi6KoBgkV4xTQ0jg&expires=1539350719
+#EXTINF:-1, FOX ACTION
+https://petopa154.caraponi.me/live/foxaction/index.m3u8?token=8CdSA6_xIQpS8y8-NUkHbg&expires=1539350756
+#EXTINF:-1, FOX
+https://petu11.pedromo.me/live/foxlatino/index.m3u8?token=tAInxd-Ye2cuQq-kyJ3RSA&expires=1539350798
+#EXTINF:-1, HBO
+https://petopa154.caraponi.me/live/hbolatino/index.m3u8?token=2o8pv-kSFLTOhQ2qScXLmw&expires=1539350837
+#EXTINF:-1, TELEMUNDO
+https://petu15.pedromo.me/live/telemundo/index.m3u8?token=w_2gHhuY9rucpn8Yg83pXg&expires=1539350950
+#EXTINF:-1, CARACOL
+https://ssl7.cdn4.us/ingest09/27013.m3u8?sf=ZlZjVURMTHBvRQ==&token=194Eot9pt-C42KPnb4QxtA&expires=1539265861&rnd=27013
+#EXTINF:-1, TyC SPORTS
+https://petopa154.caraponi.me/live/tycsports/index.m3u8?token=fesWkX8l_FtIETyTCYvBeQ&expires=1539351136
+#EXTINF:-1, CDF
+https://ssl7.cdn4.us/ingest06/26349.m3u8?sf=Vkc4ZE5pc291Zw==&token=OMqF-Zx93FkvLVK4pWvQyA&expires=1539265991&rnd=26349
+#EXTINF:-1, VTV
+https://petopa153.caraponi.me/live/vtv/index.m3u8?token=IYW3LWkH5aPf2-VhSxsOkA&expires=1539351295
+#EXTINF:-1, BOX NATION
+https://ssl7.cdn4.us/ingest06/26836.m3u8?sf=TEdZWFZybW9pUA==&token=N-r0ZVaYXxQafxQASc2nDg&expires=1539266136&rnd=26836
+#EXTINF:-1, BEIN SPORT HD
+https://ssl7.cdn4.us/ingest08/26887.m3u8?sf=VDdhb1lhUmJVTQ==&token=ePn68BagLx3ipq7QDDRCAQ&expires=1539266180&rnd=26887
+#EXTINF:-1, TDP
+https://petu14.pedromo.me/live/teledeporte/index.m3u8?token=PZaT13XP3rKgI_sHs1NZCg&expires=1539351475
+#EXTINF:-1, EURO SPORT
+https://petopa154.caraponi.me/live/eurosport1/index.m3u8?token=Gt4yQad-CvmUkrGrA1GbcA&expires=1539351523
+#EXTINF:-1, EURO SPORT 2
+https://petopa154.caraponi.me/live/eurosport2/index.m3u8?token=xteV03whgX-LXPnCcL6dug&expires=1539351569
+#EXTINF:-1, FORMULA 1
+https://ssl7.cdn4.us/ingest08/28488.m3u8?sf=TTZ0NVVkUE9BRg==&token=aRrxHeOjqtfNIcI7MLNXFA&expires=1539266394&rnd=28488
+#EXTINF:-1, MOTO GP
+https://ssl7.cdn4.us/ingest08/27795.m3u8?sf=VHRVTTdwVE1MMg==&token=o0wMdx-2YCsvzUauT_yfNQ&expires=1539266434&rnd=27795
+#EXTINF:-1, FOX SPORT
+https://cdn.whostreams.net:8443/hls/1juzbtuja8f.m3u8?s=S0ITCwx8By-8Cco8ocZLuA&e=1539287100
+#EXTINF:-1, DIRECTV SPORTS
+https://ssl7.cdn4.us/ingest08/27011.m3u8?sf=N1dnamFzZGU1WQ==&token=6SHfOWnQiOnUWSHg_-4Dlw&expires=1539266943&rnd=27011
+#EXTINF:-1, REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, BARCA TV
+https://petu11.pedromo.me/live/barca/index.m3u8?token=DFVl2PH0a2r4kftQKcIwKQ&expires=1539352268
+#EXTINF:-1, ODISEA TV
+https://copo7.mitopo.me/live/odisea/index.m3u8?token=F2pCWl-JM8S9EajH_FAfzw&expires=1539352316
+#EXTINF:-1, HISTORIA
+https://copo6.mitopo.me/live/historia/index.m3u8?token=45280T_A_kgGV41e4YDl_A&expires=1539352358
+#EXTINF:-1, NAT GEO WILD
+https://copo6.mitopo.me/live/nationalwild/index.m3u8?token=aLGtPvUfdB1b0ePi7UgELQ&expires=1539352404
+#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL
+https://copo7.mitopo.me/live/nationalgeo/index.m3u8?token=5JaFVYtsKFUFeT4eUbiUgQ&expires=1539352452
+#EXTINF:-1, CRIMEN E INVESTIGACION
+https://copo7.mitopo.me/live/ci/index.m3u8?token=5WvBxbnKUQ2-bjW3Nw43Kw&expires=1539352546
+#EXTINF:-1, DISCOVERY CHANNEL
+https://copo5.mitopo.me/live/discovery/index.m3u8?token=5mJj17f64ANxZxvM0hn9UQ&expires=1539352596
+#EXTINF:-1, DISCOVERY MAX
+https://copo4.mitopo.me/live/dmax/index.m3u8?token=PzyvnoZ8WHp8W6jqxPQZsQ&expires=1539352640
+#EXTINF:-1, TCM
+https://copo3.mitopo.me/live/tcm/index.m3u8?token=MbqUPAxksAu9WMQpnIBtIw&expires=1539352731
+#EXTINF:-1, DARK
+https://petu16.pedromo.me/live/dark/index.m3u8?token=KKsq4xYNsHDdKH9drlv4YA&expires=1539352769
+#EXTINF:-1, 13 TV
+https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w697460276.m3u8
+#EXTINF:-1, HOLLYWOOD
+https://copo6.mitopo.me/live/hollywood/index.m3u8?token=UCnIGFTHeXyZcaBuB6dx-w&expires=1539352900
+#EXTINF:-1, PARAMOUNT
+https://copo2.mitopo.me/live/paramountchannel/index.m3u8?token=TWFlyA5uYwL11BQTN7BGAA&expires=1539352946
+#EXTINF:-1, SYFY
+https://copo2.mitopo.me/live/syfy/index.m3u8?token=I74r42bNaYjtig0Aetrg3w&expires=1539352983
+#EXTINF:-1, CALLE 13
+https://copo6.mitopo.me/live/calle13/index.m3u8?token=bqvB2xUAR50yZFQCWzRJyg&expires=1539353028
+#EXTINF:-1, AXN
+https://copo6.mitopo.me/live/axn/index.m3u8?token=qR2YQe2L69PEtWtHI-z7GA&expires=1539353101
+#EXTINF:-1, TNT
+https://copo6.mitopo.me/live/tnt/index.m3u8?token=L4F17c50MaSfl-TQKGDjpg&expires=1539353150
+#EXTINF:-1, FDF
+https://copo5.mitopo.me/live/fdf/index.m3u8?token=h4ERnXnxUu3OWYuOkkhHmA&expires=1539369772
+#EXTINF:-1, FOX LATINO
+https://petu14.pedromo.me/live/foxlatino/index.m3u8?token=ZHkl0vQffvV3pmv9PwAB9Q&expires=1539370473
+#EXTINF:-1, TNT LATINO
+https://petu16.pedromo.me/live/tntlatino/index.m3u8?token=PlMWQTn-gArfoe-a9x93Kw&expires=1539370541
+#EXTINF:-1, FOX ACTION LATINO
+https://petopa153.caraponi.me/live/foxaction/index.m3u8?token=utjRfrQWH2U5BI1yqFJv6A&expires=1539370607
+#EXTINF:-1, RCN COLOMBIA
+https://petopa155.caraponi.me/live/rcn/index.m3u8?token=Pnvk7sD7B5UQ_j4ddBGNfg&expires=1539370695
+#EXTINF:-1, CINEMAX MEXICO
+https://petu15.pedromo.me/live/cinemax/index.m3u8?token=UaiMPpBlYg_rWFepq6gMXg&expires=1539370768
+#EXTINF:-1, TELEFE
+https://mp4-remote.vaughnsoft.net/play/live_beto_26.flv?&secure=VU-pEneYntnGlBwRn8X-Wg&expires=1539306985&ip=190.238.239.224
+#EXTINF:-1, LATINA
+https://2d02.janjuaplayer.com:8088/live/fullx2/playlist.m3u8?id=82326&wowzasessionid=563059781&pk=2fea63d511d1914e32a21894c6c803d972ae9c929973ff0354b12421ce389dac
+#EXTINF:-1, PANAMERICANA TV
+https://stream-01.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
+#EXTINF:-1, TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1, ATV
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1, ATV +
+https://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b882768.m3u8
+#EXTINF:-1, WILLAX
+https://secure-playlist.livestream.com/streams/26619010_7987650_lsivnw280wdbz1qpu0z_1/media/26619010_7987650_lsivnw280wdbz1qpu0z_1@2756000p.m3u8?dw=14400&token=1539458512_8e52a9a81e02daaa5e30a7255ff779ff608ae7b4&ts=1539284400
+#EXTINF:-1, CINECANAL
+http://iptv.wtf:25461/live/jwlwnyst/xA4wQ6c5l1/11309.m3u8
+#EXTINF:-1, TERROR EN VIVO
+https://mp4-remote.vaughnsoft.net/play/live_zonafilmsterror.flv?&secure=7m1ezqwu0JFGSVKfwTXoqA&expires=1539308207&ip=190.238.239.224
+#EXTINF:-1, CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:-1, CANAL 7 BOLIVIA
+https://playback.akamaized.net/streams/10468276_3485826_lsim7vqycd6ipxfyf97_1/media/10468276_3485826_lsim7vqycd6ipxfyf97_1@2320000pb.m3u8?dw=14400&ts=1539284400&hdnts=exp=1539459229~acl=/streams/10468276_3485826_lsim7vqycd6ipxfyf97_1/media*~hmac=31df133c34ed18a10752b100d0bf2c23988cf95474bfb5d79ddd3ae12473e05c
+#EXTINF:-1, ATV BOLIVIA
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=1553543761
+#EXTINF:-1, CANAL 7.2 BOLIVIA
+https://playback.akamaized.net/streams/10468276_3529933_lsi4n7w8ao335kb6gtn_1/media/10468276_3529933_lsi4n7w8ao335kb6gtn_1@1756000p.m3u8?dw=14400&ts=1539284400&hdnts=exp=1539459463~acl=/streams/10468276_3529933_lsi4n7w8ao335kb6gtn_1/media*~hmac=406570322428def81e8cb789b37d653ff8bf488527c758d59c9f5b596ad42704
+#EXTINF:-1, TC MI CANAL ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/360p/playlist.m3u8?360
+#EXTINF:-1, FOX SPORT 2
+https://fslahds-lh.akamaihd.net/i/FS2SUR_1@77551/index_1_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1539373549~acl=%2fi%2f*~data=hdntl~hmac=e55089a56f89f2807653100e62c8561eb3b6fcfaa2537f1f32a3423f77dc7815
+#EXTINF:-1,
+RAW Paste Data
+
+#EXTM3U
+#EXTINF:-1, DMAX
+https://copo2.mitopo.me/live/dmax/index.m3u8?token=zllRRwgFg0tzJE44_Pr4aQ&expires=1539349074
+#EXTINF:-1, MOVISTAR ESTRENOS
+https://petopa153.caraponi.me/live/plusestrenos/index.m3u8?token=JcWZDtRLp_0CYMjI8dH1Cw&expires=1539349238
+#EXTINF:-1, MOVISTAR SERIEMANIA
+https://petu11.pedromo.me/live/seriesxtra/index.m3u8?token=5crMABFSZcIHaImdXz9nsg&expires=1539349505
+#EXTINF:-1, MOVISTAR SERIES
+https://petu11.pedromo.me/live/plusseries/index.m3u8?token=gXIjKFX6BjjO1xOtkRW9nQ&expires=1539349638
+#EXTINF:-1, MOVISTAR GOLF
+https://petu12.pedromo.me/live/golf/index.m3u8?token=5g6kTDWENLbNTt6jAoy3Lg&expires=1539349691
+#EXTINF:-1, MOVISTAR DEPORTES
+https://petu12.pedromo.me/live/golf/index.m3u8?token=5g6kTDWENLbNTt6jAoy3Lg&expires=1539349691
+#EXTINF:-1, MOVISTAR DEPORTES PLUS
+https://petopa155.caraponi.me/live/plusdeportes/index.m3u8?token=YfJO1X9FvE8DRMhn88mb2A&expires=1539349736
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES 1
+https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=AriCTr1KUHE8ciNdIovbiA&expires=1539349850
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES 
+https://petopa154.caraponi.me/live/beinmax2/index.m3u8?token=CfX58Ip-CbdC1MHQJrkqqA&expires=1539349945
+#EXTINF:-1, MOVISTAR PLUS PARTIDAZO
+https://ssl7.cdn4.us/ingest09/28391.m3u8?sf=MWZIVWpIWnRSSQ==&token=8u5HV-D0sJE8N6Y7rntVQQ&expires=1539264888&rnd=28391
+#EXTINF:-1, MOVISTAR COMEDIA
+https://copo6.mitopo.me/live/comedia/index.m3u8?token=dvqrmc-Owwa-IFUJvaI_HA&expires=1539350228
+#EXTINF:-1, MOVISTAR DRAMA
+https://copo3.mitopo.me/live/dcine/index.m3u8?token=Puk9FVtTFv6nGvFX19ufVA&expires=1539350342
+#EXTINF:-1, MOVISTAR ACCION
+https://copo2.mitopo.me/live/plusaccion/index.m3u8?token=VhICdH0g8EXCJL6t230W5Q&expires=1539350386
+#EXTINF:-1, MOVISTAR #0
+https://copo3.mitopo.me/live/plus1/index.m3u8?token=Hd4po5i-aS8y4UgOitqO4g&expires=1539350445
+#EXTINF:-1, RCN
+https://petopa154.caraponi.me/live/rcn/index.m3u8?token=Erlz1n-Zz-b4ZTRorQ2Nhw&expires=1539350515
+#EXTINF:-1, WIIN SPORTS
+https://ssl7.cdn4.us/ingest06/26835.m3u8?sf=YVJsU1JjVW1wNQ==&token=j_1HPg59MNa8tZPsTWrZ3Q&expires=1539265354&rnd=26835
+#EXTINF:-1, AZTECA 7
+https://petu13.pedromo.me/live/azteca7/index.m3u8?token=jCstcScHrRHetk_CkRvupg&expires=1539350628
+#EXTINF:-1, CINE MAX
+https://petu13.pedromo.me/live/azteca7/index.m3u8?token=jCstcScHrRHetk_CkRvupg&expires=1539350628
+#EXTINF:-1, TNT
+https://petu13.pedromo.me/live/tntlatino/index.m3u8?token=xYy_DSfi6KoBgkV4xTQ0jg&expires=1539350719
+#EXTINF:-1, FOX ACTION
+https://petopa154.caraponi.me/live/foxaction/index.m3u8?token=8CdSA6_xIQpS8y8-NUkHbg&expires=1539350756
+#EXTINF:-1, FOX
+https://petu11.pedromo.me/live/foxlatino/index.m3u8?token=tAInxd-Ye2cuQq-kyJ3RSA&expires=1539350798
+#EXTINF:-1, HBO
+https://petopa154.caraponi.me/live/hbolatino/index.m3u8?token=2o8pv-kSFLTOhQ2qScXLmw&expires=1539350837
+#EXTINF:-1, TELEMUNDO
+https://petu15.pedromo.me/live/telemundo/index.m3u8?token=w_2gHhuY9rucpn8Yg83pXg&expires=1539350950
+#EXTINF:-1, CARACOL
+https://ssl7.cdn4.us/ingest09/27013.m3u8?sf=ZlZjVURMTHBvRQ==&token=194Eot9pt-C42KPnb4QxtA&expires=1539265861&rnd=27013
+#EXTINF:-1, TyC SPORTS
+https://petopa154.caraponi.me/live/tycsports/index.m3u8?token=fesWkX8l_FtIETyTCYvBeQ&expires=1539351136
+#EXTINF:-1, CDF
+https://ssl7.cdn4.us/ingest06/26349.m3u8?sf=Vkc4ZE5pc291Zw==&token=OMqF-Zx93FkvLVK4pWvQyA&expires=1539265991&rnd=26349
+#EXTINF:-1, VTV
+https://petopa153.caraponi.me/live/vtv/index.m3u8?token=IYW3LWkH5aPf2-VhSxsOkA&expires=1539351295
+#EXTINF:-1, BOX NATION
+https://ssl7.cdn4.us/ingest06/26836.m3u8?sf=TEdZWFZybW9pUA==&token=N-r0ZVaYXxQafxQASc2nDg&expires=1539266136&rnd=26836
+#EXTINF:-1, BEIN SPORT HD
+https://ssl7.cdn4.us/ingest08/26887.m3u8?sf=VDdhb1lhUmJVTQ==&token=ePn68BagLx3ipq7QDDRCAQ&expires=1539266180&rnd=26887
+#EXTINF:-1, TDP
+https://petu14.pedromo.me/live/teledeporte/index.m3u8?token=PZaT13XP3rKgI_sHs1NZCg&expires=1539351475
+#EXTINF:-1, EURO SPORT
+https://petopa154.caraponi.me/live/eurosport1/index.m3u8?token=Gt4yQad-CvmUkrGrA1GbcA&expires=1539351523
+#EXTINF:-1, EURO SPORT 2
+https://petopa154.caraponi.me/live/eurosport2/index.m3u8?token=xteV03whgX-LXPnCcL6dug&expires=1539351569
+#EXTINF:-1, FORMULA 1
+https://ssl7.cdn4.us/ingest08/28488.m3u8?sf=TTZ0NVVkUE9BRg==&token=aRrxHeOjqtfNIcI7MLNXFA&expires=1539266394&rnd=28488
+#EXTINF:-1, MOTO GP
+https://ssl7.cdn4.us/ingest08/27795.m3u8?sf=VHRVTTdwVE1MMg==&token=o0wMdx-2YCsvzUauT_yfNQ&expires=1539266434&rnd=27795
+#EXTINF:-1, FOX SPORT
+https://cdn.whostreams.net:8443/hls/1juzbtuja8f.m3u8?s=S0ITCwx8By-8Cco8ocZLuA&e=1539287100
+#EXTINF:-1, DIRECTV SPORTS
+https://ssl7.cdn4.us/ingest08/27011.m3u8?sf=N1dnamFzZGU1WQ==&token=6SHfOWnQiOnUWSHg_-4Dlw&expires=1539266943&rnd=27011
+#EXTINF:-1, REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, BARCA TV
+https://petu11.pedromo.me/live/barca/index.m3u8?token=DFVl2PH0a2r4kftQKcIwKQ&expires=1539352268
+#EXTINF:-1, ODISEA TV
+https://copo7.mitopo.me/live/odisea/index.m3u8?token=F2pCWl-JM8S9EajH_FAfzw&expires=1539352316
+#EXTINF:-1, HISTORIA
+https://copo6.mitopo.me/live/historia/index.m3u8?token=45280T_A_kgGV41e4YDl_A&expires=1539352358
+#EXTINF:-1, NAT GEO WILD
+https://copo6.mitopo.me/live/nationalwild/index.m3u8?token=aLGtPvUfdB1b0ePi7UgELQ&expires=1539352404
+#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL
+https://copo7.mitopo.me/live/nationalgeo/index.m3u8?token=5JaFVYtsKFUFeT4eUbiUgQ&expires=1539352452
+#EXTINF:-1, CRIMEN E INVESTIGACION
+https://copo7.mitopo.me/live/ci/index.m3u8?token=5WvBxbnKUQ2-bjW3Nw43Kw&expires=1539352546
+#EXTINF:-1, DISCOVERY CHANNEL
+https://copo5.mitopo.me/live/discovery/index.m3u8?token=5mJj17f64ANxZxvM0hn9UQ&expires=1539352596
+#EXTINF:-1, DISCOVERY MAX
+https://copo4.mitopo.me/live/dmax/index.m3u8?token=PzyvnoZ8WHp8W6jqxPQZsQ&expires=1539352640
+#EXTINF:-1, TCM
+https://copo3.mitopo.me/live/tcm/index.m3u8?token=MbqUPAxksAu9WMQpnIBtIw&expires=1539352731
+#EXTINF:-1, DARK
+https://petu16.pedromo.me/live/dark/index.m3u8?token=KKsq4xYNsHDdKH9drlv4YA&expires=1539352769
+#EXTINF:-1, 13 TV
+https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w697460276.m3u8
+#EXTINF:-1, HOLLYWOOD
+https://copo6.mitopo.me/live/hollywood/index.m3u8?token=UCnIGFTHeXyZcaBuB6dx-w&expires=1539352900
+#EXTINF:-1, PARAMOUNT
+https://copo2.mitopo.me/live/paramountchannel/index.m3u8?token=TWFlyA5uYwL11BQTN7BGAA&expires=1539352946
+#EXTINF:-1, SYFY
+https://copo2.mitopo.me/live/syfy/index.m3u8?token=I74r42bNaYjtig0Aetrg3w&expires=1539352983
+#EXTINF:-1, CALLE 13
+https://copo6.mitopo.me/live/calle13/index.m3u8?token=bqvB2xUAR50yZFQCWzRJyg&expires=1539353028
+#EXTINF:-1, AXN
+https://copo6.mitopo.me/live/axn/index.m3u8?token=qR2YQe2L69PEtWtHI-z7GA&expires=1539353101
+#EXTINF:-1, TNT
+https://copo6.mitopo.me/live/tnt/index.m3u8?token=L4F17c50MaSfl-TQKGDjpg&expires=1539353150
+#EXTINF:-1, FDF
+https://copo5.mitopo.me/live/fdf/index.m3u8?token=h4ERnXnxUu3OWYuOkkhHmA&expires=1539369772
+#EXTINF:-1, FOX LATINO
+https://petu14.pedromo.me/live/foxlatino/index.m3u8?token=ZHkl0vQffvV3pmv9PwAB9Q&expires=1539370473
+#EXTINF:-1, TNT LATINO
+https://petu16.pedromo.me/live/tntlatino/index.m3u8?token=PlMWQTn-gArfoe-a9x93Kw&expires=1539370541
+#EXTINF:-1, FOX ACTION LATINO
+https://petopa153.caraponi.me/live/foxaction/index.m3u8?token=utjRfrQWH2U5BI1yqFJv6A&expires=1539370607
+#EXTINF:-1, RCN COLOMBIA
+https://petopa155.caraponi.me/live/rcn/index.m3u8?token=Pnvk7sD7B5UQ_j4ddBGNfg&expires=1539370695
+#EXTINF:-1, CINEMAX MEXICO
+https://petu15.pedromo.me/live/cinemax/index.m3u8?token=UaiMPpBlYg_rWFepq6gMXg&expires=1539370768
+#EXTINF:-1, TELEFE
+https://mp4-remote.vaughnsoft.net/play/live_beto_26.flv?&secure=VU-pEneYntnGlBwRn8X-Wg&expires=1539306985&ip=190.238.239.224
+#EXTINF:-1, LATINA
+https://2d02.janjuaplayer.com:8088/live/fullx2/playlist.m3u8?id=82326&wowzasessionid=563059781&pk=2fea63d511d1914e32a21894c6c803d972ae9c929973ff0354b12421ce389dac
+#EXTINF:-1, PANAMERICANA TV
+https://stream-01.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
+#EXTINF:-1, TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1, ATV
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1, ATV +
+https://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b882768.m3u8
+#EXTINF:-1, WILLAX
+https://secure-playlist.livestream.com/streams/26619010_7987650_lsivnw280wdbz1qpu0z_1/media/26619010_7987650_lsivnw280wdbz1qpu0z_1@2756000p.m3u8?dw=14400&token=1539458512_8e52a9a81e02daaa5e30a7255ff779ff608ae7b4&ts=1539284400
+#EXTINF:-1, CINECANAL
+http://iptv.wtf:25461/live/jwlwnyst/xA4wQ6c5l1/11309.m3u8
+#EXTINF:-1, TERROR EN VIVO
+https://mp4-remote.vaughnsoft.net/play/live_zonafilmsterror.flv?&secure=7m1ezqwu0JFGSVKfwTXoqA&expires=1539308207&ip=190.238.239.224
+#EXTINF:-1, CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:-1, CANAL 7 BOLIVIA
+https://playback.akamaized.net/streams/10468276_3485826_lsim7vqycd6ipxfyf97_1/media/10468276_3485826_lsim7vqycd6ipxfyf97_1@2320000pb.m3u8?dw=14400&ts=1539284400&hdnts=exp=1539459229~acl=/streams/10468276_3485826_lsim7vqycd6ipxfyf97_1/media*~hmac=31df133c34ed18a10752b100d0bf2c23988cf95474bfb5d79ddd3ae12473e05c
+#EXTINF:-1, ATV BOLIVIA
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=1553543761
+#EXTINF:-1, CANAL 7.2 BOLIVIA
+https://playback.akamaized.net/streams/10468276_3529933_lsi4n7w8ao335kb6gtn_1/media/10468276_3529933_lsi4n7w8ao335kb6gtn_1@1756000p.m3u8?dw=14400&ts=1539284400&hdnts=exp=1539459463~acl=/streams/10468276_3529933_lsi4n7w8ao335kb6gtn_1/media*~hmac=406570322428def81e8cb789b37d653ff8bf488527c758d59c9f5b596ad42704
+#EXTINF:-1, TC MI CANAL ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/360p/playlist.m3u8?360
+#EXTINF:-1, FOX SPORT 2
+https://fslahds-lh.akamaihd.net/i/FS2SUR_1@77551/index_1_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1539373549~acl=%2fi%2f*~data=hdntl~hmac=e55089a56f89f2807653100e62c8561eb3b6fcfaa2537f1f32a3423f77dc7815
+#EXTINF:-1,
